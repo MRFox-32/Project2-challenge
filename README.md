@@ -1,10 +1,10 @@
 # Project2-challenge
 
 ## Team Members
-Chris Kellam
-Matthew Smith
-Jason Britton
-Molly Fox
+* Chris Kellam
+* Matthew Smith
+* Jason Britton
+* Molly Fox
 
 ## Description
 Build an ETL pipeline using Python and Pandas to extract and transform the data. After you transform the data, create an ERD and a table schema, then upload the CSV file data into a Postgres database.
